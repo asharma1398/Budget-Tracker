@@ -20,4 +20,4 @@ An application that allows for offline access and functionality when tracking on
 
 ### Preview 
 
-![budget_preview]()
+![budget_preview](public/assets/images/budget.gif)
