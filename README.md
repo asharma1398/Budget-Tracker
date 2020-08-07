@@ -17,3 +17,7 @@ An application that allows for offline access and functionality when tracking on
 - After installation run ```node server.js``` in the CLI to execute
 
 - Run ```localhost:3000``` in a browser window to view and use application
+
+### Preview 
+
+![budget_preview]()
